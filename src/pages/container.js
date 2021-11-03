@@ -1,9 +1,10 @@
 import React, { useEffect, useState } from "react";
+import TableComponent from "../components/tablecomponent";
 import { callApi } from "../api/index";
 import { USER_API } from "../constants/index";
 import { Sort } from "../utils/sort";
 import { GetRandom } from "../utils/random";
-import TableComponent from "../components/tablecomponent";
+
 
 const Container = () => {
   const [state, setState] = useState({

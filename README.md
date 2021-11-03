@@ -40,8 +40,12 @@ I can now say: (n)vim rocks!!!
 My editor is VS Code.
 2. While at that, what's your favourite plugin with it and what's so superb about it?
 (If you can't decide you are allowed to mention more than one, hehe)
+Prettier and Eslint are two most favorite plugins. 
+Prettier makes my code pretty with little/no efforts and eslint makes my code clean. :) 
 
 3. Please add a screenie ...
+
+![Screenshot](screenshot.png)
 
 ### Petty Task
 
